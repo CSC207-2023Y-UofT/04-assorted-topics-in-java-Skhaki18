@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DrivableMapTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-09T06:10:34" hostname="samirs-MBP-2" time="0.005">
+  <properties/>
+  <testcase name="testGetTradable" classname="DrivableMapTest" time="0.004"/>
+  <testcase name="testHasFasterThan" classname="DrivableMapTest" time="0.0"/>
+  <testcase name="testAddDrivable" classname="DrivableMapTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
